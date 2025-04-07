@@ -1,3 +1,5 @@
+// To check given number is perfect or not.
+
 import java.util.Scanner;
 
 public class PerfectNum
